@@ -32,7 +32,7 @@ for (var i = 0; i < timeArray.length; i++) {
     console.log(milId)
     if (milId < nowHour) {
         textArea.attr('class', 'col-8 bg-secondary')
-    } else if (milId = nowHour) {
+    } else if (milId == nowHour) {
         textArea.attr('class', 'col-8 bg-danger')
     } else {
         textArea.attr('class', 'col-8 bg-success')
