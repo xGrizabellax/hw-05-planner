@@ -17,3 +17,11 @@ This is a daily planer with interactivity and real time tracking. Plan out your 
 In the second screenshot below, it was 10:00PM so all of the boxes have been grayed out!
 
 ![planner-2nd-screenshot](https://user-images.githubusercontent.com/88065363/142564686-8e5954cd-4ee8-408f-8e3e-48a5b51b9b06.png)
+
+
+
+Contact Information
+
+Email sampagecode@gmail.com
+GitHub: https://github.com/xGrizabellax
+LinkedIn: https://www.linkedin.com/in/sam-page-444787106/
