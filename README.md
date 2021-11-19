@@ -20,6 +20,6 @@ In the second screenshot below, it was 10:00PM so all of the boxes have been gra
 
 Contact Information:
 
-Email sampagecode@gmail.com
+Email: sampagecode@gmail.com
 GitHub: https://github.com/xGrizabellax
 LinkedIn: https://www.linkedin.com/in/sam-page-444787106/
